@@ -1,5 +1,7 @@
 ## Welcome to Dr. Pamela Thompson's Github site
-<img src="http://plthomps.github.io/catawba.PNG"
+
+https://github.com/plthomps/plthomps.github.io/blob/master/image.png
+<img src="blob/master/catawba.PNG"
      alt="Catawba College"
      style="float: left; margin-right: 10px;" />
 
