@@ -1,5 +1,5 @@
 ## Welcome to Dr. Pamela Thompson's Github site
-<img src="catawba.png"
+<img src="catawba.PNG"
      alt="Catawba College"
      style="float: left; margin-right: 10px;" />
 
