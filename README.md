@@ -1,13 +1,13 @@
 ## Welcome to Dr. Pamela Thompson's Github site
 
 
-<img src="blob/master/catawba.PNG"
+<img src="https://github.com/plthomps/plthomps.github.io/blob/master/image.PNG"
      alt="Catawba College"
      style="float: left; margin-right: 10px;" />
 
 You can use the [editor on GitHub](https://github.com/plthomps/plthomps.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-![Image](blob/master/catawba.PNG)
+![Image](https://github.com/plthomps/plthomps.github.io/blob/master/image.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
