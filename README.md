@@ -1,4 +1,7 @@
 ## Welcome to Dr. Pamela Thompson's Github site
+<img src="catawba.png"
+     alt="Catawba College"
+     style="float: left; margin-right: 10px;" />
 
 You can use the [editor on GitHub](https://github.com/plthomps/plthomps.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
